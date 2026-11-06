@@ -1,0 +1,364 @@
+test_id,run,class_id,product_type,result,seconds,note,timestamp
+TC01,1,valid,-,PASS,63.1,edenrobeqa.1793870582437@mailinator.com,2026-11-05T14:24:05
+TC01,2,valid,-,PASS,34.7,edenrobeqa.1793870656990@mailinator.com,2026-11-05T14:24:51
+TC01,3,valid,-,PASS,35.4,edenrobeqa.1793870697152@mailinator.com,2026-11-05T14:25:32
+TC01,4,valid,-,PASS,33.2,edenrobeqa.1793870738542@mailinator.com,2026-11-05T14:26:11
+TC01,5,valid,-,PASS,38.3,edenrobeqa.1793870776262@mailinator.com,2026-11-05T14:26:54
+TC01,6,valid,-,PASS,36.0,edenrobeqa.1793870821746@mailinator.com,2026-11-05T14:27:37
+TC01,7,valid,-,PASS,36.7,edenrobeqa.1793870865676@mailinator.com,2026-11-05T14:28:22
+TC01,8,valid,-,PASS,36.7,edenrobeqa.1793870913534@mailinator.com,2026-11-05T14:29:10
+TC01,9,valid,-,PASS,36.6,edenrobeqa.1793870958072@mailinator.com,2026-11-05T14:29:55
+TC01,10,valid,-,PASS,39.7,edenrobeqa.1793871005935@mailinator.com,2026-11-05T14:30:45
+TC01,11,valid,-,PASS,37.3,edenrobeqa.1793871053315@mailinator.com,2026-11-05T14:31:30
+TC01,12,valid,-,PASS,34.8,edenrobeqa.1793871095073@mailinator.com,2026-11-05T14:32:10
+TC01,13,valid,-,PASS,37.8,edenrobeqa.1793871141365@mailinator.com,2026-11-05T14:32:59
+TC01,14,valid,-,PASS,36.5,edenrobeqa.1793871185118@mailinator.com,2026-11-05T14:33:42
+TC01,15,valid,-,PASS,34.6,edenrobeqa.1793871232866@mailinator.com,2026-11-05T14:34:26
+TC01,16,valid,-,PASS,31.6,edenrobeqa.1793871275830@mailinator.com,2026-11-05T14:35:07
+TC01,17,valid,-,PASS,33.9,edenrobeqa.1793871318694@mailinator.com,2026-11-05T14:35:52
+TC01,18,valid,-,PASS,35.6,edenrobeqa.1793871363782@mailinator.com,2026-11-05T14:36:38
+TC01,19,valid,-,PASS,36.7,edenrobeqa.1793871408192@mailinator.com,2026-11-05T14:37:25
+TC01,20,valid,-,PASS,36.4,edenrobeqa.1793871455144@mailinator.com,2026-11-05T14:38:11
+TC01,21,valid,-,PASS,35.9,edenrobeqa.1793871501635@mailinator.com,2026-11-05T14:38:57
+TC01,22,valid,-,PASS,35.8,edenrobeqa.1793871545897@mailinator.com,2026-11-05T14:39:41
+TC01,23,valid,-,PASS,37.8,edenrobeqa.1793871592760@mailinator.com,2026-11-05T14:40:30
+TC01,24,valid,-,PASS,35.6,edenrobeqa.1793871634024@mailinator.com,2026-11-05T14:41:10
+TC01,25,valid,-,PASS,31.6,edenrobeqa.1793871678244@mailinator.com,2026-11-05T14:41:50
+TC01,26,valid,-,PASS,36.6,edenrobeqa.1793871719050@mailinator.com,2026-11-05T14:42:36
+TC01,27,valid,-,PASS,32.3,edenrobeqa.1793871765752@mailinator.com,2026-11-05T14:43:17
+TC01,28,valid,-,PASS,33.5,edenrobeqa.1793871807605@mailinator.com,2026-11-05T14:44:00
+TC01,29,valid,-,PASS,36.8,edenrobeqa.1793871849992@mailinator.com,2026-11-05T14:44:46
+TC02,1,E-I1,-,PASS,21.2,E-I1,2026-11-05T14:48:36
+TC02,2,E-I2,-,PASS,21.6,E-I2,2026-11-05T14:50:01
+TC02,3,E-I3,-,PASS,21.1,E-I3,2026-11-05T14:50:41
+TC02,4,E-I4,-,PASS,22.5,E-I4,2026-11-05T14:51:09
+TC02,5,E-I5,-,PASS,21.3,E-I5,2026-11-05T14:51:34
+TC02,6,E-I6,-,PASS,20.2,E-I6,2026-11-05T14:52:00
+TC02,7,E-I7,-,PASS,20.7,E-I7,2026-11-05T14:52:26
+TC02,8,E-I8,-,FAIL,17.3,E-I8,2026-11-05T14:52:49
+TC02,9,C-I1,-,PASS,22.6,C-I1,2026-11-05T14:53:20
+TC02,10,C-I2,-,PASS,25.1,C-I2,2026-11-05T14:53:52
+TC02,11,C-I3,-,PASS,25.6,C-I3,2026-11-05T14:54:26
+TC02,12,E-I1,-,PASS,23.5,E-I1,2026-11-05T14:54:55
+TC02,13,E-I2,-,PASS,22.9,E-I2,2026-11-05T14:55:24
+TC02,14,E-I3,-,PASS,24.0,E-I3,2026-11-05T14:55:55
+TC02,15,E-I4,-,PASS,24.6,E-I4,2026-11-05T14:56:27
+TC02,16,E-I5,-,PASS,22.2,E-I5,2026-11-05T14:56:58
+TC02,17,E-I6,-,PASS,22.0,E-I6,2026-11-05T14:57:29
+TC02,18,E-I7,-,PASS,23.3,E-I7,2026-11-05T14:58:03
+TC02,19,E-I8,-,FAIL,16.2,E-I8,2026-11-05T14:58:24
+TC02,20,C-I1,-,PASS,24.9,C-I1,2026-11-05T14:58:53
+TC02,21,C-I2,-,PASS,27.6,C-I2,2026-11-05T14:59:27
+TC02,22,C-I3,-,PASS,26.8,C-I3,2026-11-05T15:00:01
+TC02,23,E-I1,-,PASS,22.9,E-I1,2026-11-05T15:00:31
+TC02,24,E-I2,-,PASS,22.4,E-I2,2026-11-05T15:01:02
+TC02,25,E-I3,-,PASS,24.4,E-I3,2026-11-05T15:01:34
+TC02,26,E-I4,-,PASS,22.8,E-I4,2026-11-05T15:02:07
+TC02,27,E-I5,-,PASS,22.4,E-I5,2026-11-05T15:02:35
+TC02,28,E-I6,-,PASS,23.1,E-I6,2026-11-05T15:03:05
+TC02,29,E-I7,-,PASS,24.2,E-I7,2026-11-05T15:03:36
+TC02,30,E-I8,-,FAIL,19.8,E-I8,2026-11-05T15:11:08
+TC02,31,C-I1,-,PASS,23.3,C-I1,2026-11-05T15:11:42
+TC02,32,C-I2,-,PASS,26.0,C-I2,2026-11-05T15:12:18
+TC02,33,C-I3,-,PASS,28.5,C-I3,2026-11-05T15:12:53
+TC02,34,E-I1,-,PASS,21.8,E-I1,2026-11-05T15:13:25
+TC02,35,E-I2,-,PASS,24.6,E-I2,2026-11-05T15:13:56
+TC02,36,E-I3,-,PASS,23.1,E-I3,2026-11-05T15:14:25
+TC02,37,E-I4,-,PASS,24.1,E-I4,2026-11-05T15:14:58
+TC02,38,E-I5,-,PASS,24.1,E-I5,2026-11-05T15:15:32
+TC02,39,E-I6,-,PASS,24.0,E-I6,2026-11-05T15:16:04
+TC02,40,E-I7,-,PASS,22.0,E-I7,2026-11-05T15:16:34
+TC02,41,E-I8,-,FAIL,17.1,E-I8,2026-11-05T15:17:01
+TC03,1,valid,letter,PASS,59.4,letter: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNInHXEtYw7Gmm0XY1u48Zd/en-pk?_r=AQAB7XlpMgl724qZs16nLftnW_fx4RjWJXpOiZFEtPjViLVTTNrB&discount=,2026-11-05T16:16:38
+TC03,2,valid,numeric,PASS,61.4,numeric: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNInHgIJdZYu7IujrejVLs1/en-pk?_r=AQAB19hejzAipoClUHQtCsMdpPa3-cOXpReea5hwg_cVU8ExYQsV&discount=,2026-11-05T16:18:06
+TC03,3,valid,age,PASS,60.1,age: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNInHnZXJEdWQiMGBT6tD4D/en-pk?_r=AQABJZ1dJuomkYm2Ljq54z9D5miaueXsJttVIGlISasryYYvU-Ir&discount=,2026-11-05T16:19:14TC03,4,valid,-,FAIL,41.1,login failed,2026-11-05T16:41:55
+TC03,4,valid,none,PASS,62.4,none: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNInMajydSzJVsG2IE9Z5JR/en-pk?_r=AQABdtC8ZuQuXfNhE0AkcNLHByDKRndVh9tpcLqlIWUkJeHOA0Bx&discount=,2026-11-05T17:06:33
+TC03,5,valid,letter,PASS,59.5,letter: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNInMi9aJfMI5xkGkWD2WPp/en-pk?_r=AQABBr8rOOok_2IY5HsLkDsF9YX0LSAXdAu9c_xP7zAjTrZOdFxn&discount=,2026-11-05T17:07:43
+TC03,6,valid,numeric,PASS,59.1,numeric: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNInMqNPKU07GYE0VgKkoOP/en-pk?_r=AQABfWcZyenmXr5_Xbbat2uj_RmbnO8b9GgzJsgeGzoo9eLjb02f&discount=,2026-11-05T17:09:01TC03,7,valid,-,FAIL,42.1,login failed,2026-11-05T17:11:07TC03,7,valid,age,PASS,61.0,age: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNInQXgfSc26DZFkpdIJnBh/en-pk?_r=AQABMkTU-5bGHKujPgdorPSfRjS1-wLky7p2fNb6VFXCdQB2E1Ar&discount=,2026-11-05T17:45:30
+TC03,7,valid,age,PASS,57.4,age: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNInQjTUJsZSlrgDuq1Hkun/en-pk?_r=AQAB1fK9evNRavBHY4KH5sZAx2UsFMSRp9uqBxnnSlVNEajz7vua&discount=,2026-11-05T17:47:22
+TC03,8,valid,none,PASS,51.7,none: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNInQr1D8RnA1mVF1GHeFkH/en-pk?_r=AQABXlKtDZLc-zpCYbxYk2q3TttFHJ2lzzu-pxR5Os7D5KHVwqKH&discount=,2026-11-05T17:48:34
+TC03,9,valid,letter,PASS,53.2,letter: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNInQx9Z7U0FobWyolLqVg9/en-pk?_r=AQABwsnCn0cXX4CqlOkKfrKJp8EoTIzYc41q5tUrRzKGc4J1IinP&discount=,2026-11-05T17:49:33
+TC03,10,valid,numeric,PASS,50.0,numeric: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNInR34da87Gs4Hh2B4G4dV/en-pk?_r=AQAB8ASW25IhLBHTM98FZ8k6mVo1zG4_AWkiaYR_gf6epCDIAlc2&discount=,2026-11-05T17:50:29TC03,11,valid,-,FAIL,38.7,login failed,2026-11-05T18:05:00TC03,11,valid,-,FAIL,24.4,login failed,2026-11-05T18:06:51
+TC03,11,valid,age,PASS,72.6,age: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNInSsJ5W6jRcWEkQI5Kfh3/en-pk?_r=AQAB8LLwVQs0t_8JnLxPkmRKsYw-Wt-kmogZLUK5Yvr2GYj8COwI&discount=,2026-11-05T18:08:33
+TC03,12,valid,none,PASS,84.7,none: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNInT19MVhDssaQfbGAfNpp/en-pk?_r=AQABHpfIs_Js9cOtvPGJshuXiSfEhkdYRjALUzDlK2hwQgXjXXW4&discount=,2026-11-05T18:10:02
+TC03,13,valid,letter,PASS,101.9,letter: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNInT941lrHX5E5hH9sbJ3Z/en-pk?_r=AQABUrtHiRLzXPriWifoRMjQQxY1kbykE385ebY-cCgScAocoeLJ&discount=,2026-11-05T18:11:48TC03,14,valid,-,FAIL,104.9,login failed,2026-11-05T18:17:33
+TC03,14,valid,age,PASS,70.6,age: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNInURMYcIYdidsI9XDu0Fl/en-pk?_r=AQAB8DUbirrUTM8fWvnYQSB6IgGnTWMBGXAmseyhgpPg8AR6u-ee&discount=,2026-11-05T18:23:59
+TC03,15,valid,none,PASS,90.0,none: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNInUkfPeaa0e9KuVb7fl45/en-pk?_r=AQAB8uKK9ldMBbhSGJpfPyy-V-bteCUMPBIq-V3_-W_nx4TAezB3&discount=,2026-11-05T18:27:02TC03,16,valid,-,FAIL,51.4,login failed,2026-11-05T18:49:01TC03,16,valid,-,FAIL,44.3,login failed,2026-11-05T18:55:01TC03,16,valid,none,PASS,74.0,none: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNInXy8aw6AkFSOOlog5OJF/en-pk?_r=AQABsOGjITXQ6m9FB7ZsxwPCbQb70syaLES-pbOsvzUgR9GnqZ57&discount=,2026-11-05T18:58:57TC03,16,valid,none,PASS,96.0,none: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNInYLAmCnmDO8i2aOzCFUH/en-pk?_r=AQABtIKN6RDEW0sU9LdPpiCrRE-hqPtnq9NMiduSRhsqY-0Fo6NQ&discount=,2026-11-05T19:02:40
+TC03,16,valid,none,PASS,78.1,none: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNInYWb5bEksNLeuogt4OfZ/en-pk?_r=AQABOaY6df8kS_PNEuZyxPa0nAcgumj3p3KkbKs6VgPXzN6Z3xOF&discount=,2026-11-05T19:04:24
+TC03,17,valid,letter,PASS,64.5,letter: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNInYfhnLJK3ncpAdxbw9fF/en-pk?_r=AQAB6KckCdEs7LddN9D6ri5_8wW4S2D-VQRBru9-7a03ZVNiP3Rl&discount=,2026-11-05T19:05:46
+TC03,18,valid,numeric,PASS,54.1,numeric: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNInZGTemxiy6hzbKHWpRqr/en-pk?_r=AQABOhe9ld4GYq_7eJGmp3WJ69uTz7AQtP_z9yO8S7m1j7rFASA9&discount=,2026-11-05T19:11:37TC03,19,valid,-,FAIL,44.3,login failed,2026-11-05T19:14:03TC03,19,valid,age,PASS,72.8,age: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNInZzTwGZIhXGlini2q8J7/en-pk?_r=AQABuh5VI3ybx4HeHjuTWNwCSohWeyymQ4hQFU66JwE2mvpy7Zoy&discount=,2026-11-05T19:18:50
+TC03,19,valid,none,PASS,78.8,none: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNIna99vzEgVuvbfupw3Fbg/en-pk?_r=AQABrojh49RUu2dNfMGgUW60J84ZXlT8lLB4d0XZfBcbvZn4zGbz&discount=,2026-11-05T19:20:24TC03,21,valid,-,FAIL,29.6,login failed,2026-11-05T19:22:48TC03,20,valid,-,FAIL,45.6,login failed,2026-11-05T19:31:05TC05,1,valid,letter,FAIL,33.7,letter | https://edenrobe.com/checkouts/cn/hWNInc1v2rNFDMZxmBNeshds/en-pk?_r=AQABZrEPKDM48wUb2hjOOATFSiObWjgT2vfMsNOTFlD46dEy1US1&discount=,2026-11-05T19:38:57TC05,1,valid,-,FAIL,21.7,EXC NameError name 'select_any_available_size' is not defined,2026-11-05T19:42:59TC05,1,valid,-,FAIL,60.7,Failed to click Add to Cart,2026-11-05T19:48:34TC05,1,valid,-,FAIL,19.1,Failed to click Add to Cart on https://edenrobe.com/collections/men/products/full-sleeves-basic-tee-emtbf6-005,2026-11-05T19:51:00TC05,1,valid,-,FAIL,18.6,Failed to click Add to Cart on https://edenrobe.com/collections/men/products/full-sleeves-basic-tee-emtbf6-005,2026-11-05T19:52:48TC03,20,valid,none,PASS,96.6,none: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNInfDE6wu7xCDzYbnLNVmj/en-pk?_r=AQABcAlr5DPDj_54kUutafpcqQeHyw2SF12lPOfRjABCDaVtTqMX&discount=,2026-11-05T20:10:34
+TC03,20,valid,none,PASS,97.4,none: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNInfWNwV1nq0Osf0lFLuwj/en-pk?_r=AQAB-84ilXXbv7xl_UBbWAxytXA6Deta2g6XFMr216DdMbEy02DI&discount=,2026-11-05T20:13:33
+TC03,21,valid,letter,PASS,106.1,letter: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNInfiFqW7o1VsiVAg0Myzx/en-pk?_r=AQABNVjYFKKws-SGP-6x6uP6DJSQoaPyA18N9-MEQt86FhM_TbaI&discount=,2026-11-05T20:15:27TC03,22,valid,numeric,PASS,194.6,numeric: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNIngQMcEdil0sbgzZ94e4P/en-pk?_r=AQABqPukK48rWvcezudkTGanrcH2y7QMYcuXbzjBZBa__tw_Jled&discount=,2026-11-05T20:22:31
+TC03,23,valid,age,PASS,91.1,age: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNIngckYBsIjNUyUvashIKP/en-pk?_r=AQABYJm0IL-qLDf5ffIStrtw85gTQ-IrRiB8xi28n8MSjb0MIel9&discount=,2026-11-05T20:24:23
+TC03,23,valid,age,PASS,95.4,age: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNIngv15FEPLIinjz7sWEhV/en-pk?_r=AQABmL96oU5CsNLvUJHZ1uHb5BkxsMTPyCVVzPpjNoMHSj1RA3WA&discount=,2026-11-05T20:27:21
+TC03,24,valid,none,PASS,123.3,none: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNInh9lVzKfjWmC6QFOBbuL/en-pk?_r=AQABubreGhSsQQ77uYduXTVf_HNV3sW3YuZH-63TEIFdK246rIWR&discount=,2026-11-05T20:29:38
+TC03,25,valid,letter,PASS,127.8,letter: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNInhPFNPbz99SyyK3mNFir/en-pk?_r=AQABxoiWrg2sU--vhyPpTLU73hX2xRyCfpbdmcp7--y8zC1IvT84&discount=,2026-11-05T20:32:08
+TC03,26,valid,numeric,PASS,121.7,numeric: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNInhhUu6LC9gfFXVw3OApF/en-pk?_r=AQABwG6oNoD-Yt0EdMekIGBjxVGW6mfXJg3JdOcVEbwiUFSxsRnX&discount=,2026-11-05T20:35:03
+TC03,27,valid,age,PASS,88.7,age: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNInhsAzIJt6YrqYsqpZ9Jh/en-pk?_r=AQAB6ZQ9WrjiEB0YDkYMZFtDizZhBWXZGL8VeM-JMcDw3vBVLPut&discount=,2026-11-05T20:36:46
+TC03,28,valid,none,PASS,161.8,none: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNIni7RiTgVKxIa3lwf6F5l/en-pk?_r=AQABXgHEtGO_w8vtFg8N0TkAQtHSE6dCOa43wxeHlyyrKMkluUw7&discount=,2026-11-05T20:39:46
+TC03,29,valid,letter,PASS,226.8,letter: size=none colour=none | https://edenrobe.com/checkouts/cn/hWNIniWLdsNDiaf5uUv5sTVB/en-pk?_r=AQABXS5E4sEAoApvf1lK2ly7QZs4pabbuf6AeDs19yZY7C2dCnqJ&discount=,2026-11-05T20:43:56
+TC05,1,valid,-,PASS,58.2,letter | https://edenrobe.com/collections/all,2026-11-05T22:04:37
+TC05,2,valid,-,PASS,30.7,letter | https://edenrobe.com/collections/all,2026-11-05T22:05:27
+TC05,3,valid,-,PASS,31.0,letter | https://edenrobe.com/collections/all,2026-11-05T22:06:11
+TC05,4,valid,-,PASS,30.4,letter | https://edenrobe.com/collections/all,2026-11-05T22:07:01
+TC05,5,valid,-,PASS,30.9,letter | https://edenrobe.com/collections/all,2026-11-05T22:07:45
+TC05,6,valid,-,PASS,31.2,letter | https://edenrobe.com/collections/all,2026-11-05T22:08:32
+TC05,7,valid,-,PASS,31.0,letter | https://edenrobe.com/collections/all,2026-11-05T22:09:23
+TC05,8,valid,-,PASS,30.6,letter | https://edenrobe.com/collections/all,2026-11-05T22:10:11
+TC05,9,valid,-,PASS,52.7,letter | https://edenrobe.com/collections/all,2026-11-05T22:11:18
+TC05,10,valid,-,PASS,34.2,letter | https://edenrobe.com/collections/all,2026-11-05T22:12:13
+TC05,11,valid,-,PASS,31.1,letter | https://edenrobe.com/collections/all,2026-11-05T22:13:03
+TC05,12,valid,-,PASS,29.8,letter | https://edenrobe.com/collections/all,2026-11-05T22:13:46
+TC05,13,valid,-,PASS,30.7,letter | https://edenrobe.com/collections/all,2026-11-05T22:14:29
+TC05,14,valid,-,PASS,30.1,letter | https://edenrobe.com/collections/all,2026-11-05T22:15:19
+TC05,15,valid,-,PASS,30.4,letter | https://edenrobe.com/collections/all,2026-11-05T22:16:08
+TC05,16,valid,-,PASS,29.6,letter | https://edenrobe.com/collections/all,2026-11-05T22:16:53
+TC05,17,valid,-,PASS,29.0,letter | https://edenrobe.com/collections/all,2026-11-05T22:17:36
+TC05,18,valid,-,PASS,57.4,letter | https://edenrobe.com/collections/all,2026-11-05T22:18:48
+TC05,19,valid,-,PASS,29.5,letter | https://edenrobe.com/collections/all,2026-11-05T22:19:30
+TC05,20,valid,-,PASS,67.4,letter | https://edenrobe.com/collections/all,2026-11-05T22:20:55
+TC05,21,valid,-,PASS,29.3,letter | https://edenrobe.com/collections/all,2026-11-05T22:21:44
+TC05,22,valid,-,PASS,25.3,letter | https://edenrobe.com/collections/all,2026-11-05T22:22:30
+TC05,23,valid,-,PASS,58.0,letter | https://edenrobe.com/collections/all,2026-11-05T22:23:44
+TC05,24,valid,-,PASS,26.9,letter | https://edenrobe.com/collections/all,2026-11-05T22:24:22
+TC05,25,valid,-,PASS,29.9,letter | https://edenrobe.com/collections/all,2026-11-05T22:25:09
+TC05,26,valid,-,PASS,28.5,letter | https://edenrobe.com/collections/all,2026-11-05T22:25:55
+TC05,27,valid,-,PASS,28.9,letter | https://edenrobe.com/collections/all,2026-11-05T22:26:38
+TC05,28,valid,-,PASS,37.1,letter | https://edenrobe.com/collections/all,2026-11-05T22:27:30
+TC05,29,valid,-,PASS,66.5,letter | https://edenrobe.com/collections/all,2026-11-05T22:28:56
+TC04,1,E-I1,-,PASS,25.6,E-I1,2026-11-05T22:30:22
+TC04,2,E-I2,-,PASS,27.1,E-I2,2026-11-05T22:31:08
+TC04,3,E-I3,-,PASS,34.7,E-I3,2026-11-05T22:31:56
+TC04,4,E-I4,-,PASS,35.8,E-I4,2026-11-05T22:32:45
+TC04,5,C-I1,-,PASS,32.6,C-I1,2026-11-05T22:33:34
+TC04,6,C-I2,-,PASS,27.8,C-I2,2026-11-05T22:34:15
+TC04,7,C-I3,-,PASS,27.7,C-I3,2026-11-05T22:34:56
+TC04,8,S-I1,-,FAIL,58.5,login failed,2026-11-05T22:36:06
+TC04,9,E-I1,-,PASS,36.2,E-I1,2026-11-05T22:37:03
+TC04,10,E-I2,-,PASS,36.3,E-I2,2026-11-05T22:37:56
+TC04,11,E-I3,-,PASS,26.9,E-I3,2026-11-05T22:38:38
+TC04,12,E-I4,-,PASS,25.0,E-I4,2026-11-05T22:39:24
+TC04,13,C-I1,-,PASS,26.9,C-I1,2026-11-05T22:40:06
+TC04,14,C-I2,-,PASS,33.4,C-I2,2026-11-05T22:41:00
+TC04,15,C-I3,-,PASS,62.0,C-I3,2026-11-05T22:42:17
+TC04,16,S-I1,-,PASS,57.3,S-I1,2026-11-05T22:43:35
+TC04,17,E-I1,-,PASS,26.4,E-I1,2026-11-05T22:44:12
+TC04,18,E-I2,-,PASS,55.1,E-I2,2026-11-05T22:45:27
+TC04,19,E-I3,-,PASS,26.2,E-I3,2026-11-05T22:46:08
+TC04,20,E-I4,-,PASS,26.9,E-I4,2026-11-05T22:46:48
+TC04,21,C-I1,-,PASS,27.4,C-I1,2026-11-05T22:47:34
+TC04,22,C-I2,-,PASS,28.8,C-I2,2026-11-05T22:48:21
+TC04,23,C-I3,-,PASS,27.9,C-I3,2026-11-05T22:49:03
+TC04,24,S-I1,-,PASS,53.6,S-I1,2026-11-05T22:50:16
+TC04,25,E-I1,-,PASS,24.2,E-I1,2026-11-05T22:50:52
+TC04,26,E-I2,-,PASS,22.8,E-I2,2026-11-05T22:51:27
+TC04,27,E-I3,-,PASS,38.7,E-I3,2026-11-05T22:52:21
+TC04,28,E-I4,-,PASS,26.6,E-I4,2026-11-05T22:53:07
+TC04,29,C-I1,-,PASS,28.2,C-I1,2026-11-05T22:53:55
+TC04,30,C-I2,-,PASS,59.1,C-I2,2026-11-05T22:55:44
+TC04,31,C-I3,-,PASS,29.7,C-I3,2026-11-05T22:56:20
+TC04,32,S-I1,-,PASS,52.4,S-I1,2026-11-05T23:00:03
+TC04,33,E-I1,-,PASS,23.5,E-I1,2026-11-05T23:00:40
+TC04,34,E-I2,-,PASS,26.6,E-I2,2026-11-05T23:01:23
+TC04,35,E-I3,-,PASS,28.6,E-I3,2026-11-05T23:02:09
+TC04,36,E-I4,-,PASS,28.3,E-I4,2026-11-05T23:02:51
+TC04,37,C-I1,-,PASS,30.0,C-I1,2026-11-05T23:03:42
+TC04,38,C-I2,-,PASS,32.9,C-I2,2026-11-05T23:04:34
+TC04,39,C-I3,-,PASS,61.1,C-I3,2026-11-05T23:05:56
+TC04,40,S-I1,-,PASS,59.7,S-I1,2026-11-05T23:07:17
+TC04,41,E-I1,-,PASS,27.6,E-I1,2026-11-05T23:07:57
+TC04,42,E-I2,-,PASS,28.7,E-I2,2026-11-05T23:08:51
+TC04,43,E-I3,-,PASS,42.1,E-I3,2026-11-05T23:09:46
+TC04,44,E-I4,-,PASS,28.3,E-I4,2026-11-05T23:10:31
+TC04,45,C-I1,-,PASS,40.3,C-I1,2026-11-05T23:11:28
+TC04,46,C-I2,-,PASS,37.1,C-I2,2026-11-05T23:12:25
+TC06,1,G-E1,letter,PASS,101.4,G-E1 | Processed,2026-11-05T23:37:46
+TC06,2,G-E2,letter,PASS,119.3,G-E2 | Processed,2026-11-05T23:40:06
+TC06,3,G-E3,letter,PASS,101.5,G-E3 | Processed,2026-11-05T23:42:04
+TC06,4,G-E4,letter,PASS,100.4,G-E4 | Processed,2026-11-05T23:43:59
+TC06,5,G-F1,letter,PASS,89.8,G-F1 | Processed,2026-11-05T23:45:48
+TC06,6,G-F2,letter,PASS,80.9,G-F2 | Processed,2026-11-05T23:47:27
+TC06,7,G-F3,letter,PASS,74.5,G-F3 | Processed,2026-11-05T23:49:05
+TC06,8,G-F4,letter,PASS,88.4,G-F4 | Processed,2026-11-05T23:50:56
+TC06,9,G-F5,letter,PASS,115.8,G-F5 | Processed,2026-11-05T23:53:09
+TC06,10,G-L1,letter,PASS,111.1,G-L1 | Processed,2026-11-05T23:55:24
+TC06,11,G-L2,letter,PASS,95.1,G-L2 | Processed,2026-11-05T23:57:20
+TC06,12,G-L3,letter,PASS,89.6,G-L3 | Processed,2026-11-05T23:59:04
+TC06,13,G-L4,letter,PASS,90.1,G-L4 | Processed,2026-11-06T00:00:51
+TC06,14,G-L5,letter,PASS,95.9,G-L5 | Processed,2026-11-06T00:02:51
+TC06,15,G-A1,letter,PASS,105.2,G-A1 | Processed,2026-11-06T00:04:59
+TC06,16,G-A2,letter,PASS,64.0,G-A2 | Processed,2026-11-06T00:06:16
+TC06,17,G-A3,letter,PASS,36.6,G-A3 | Processed,2026-11-06T00:07:09
+TC06,18,G-M1,letter,PASS,107.1,G-M1 | Processed,2026-11-06T00:09:16
+TC06,19,G-M2,letter,PASS,100.7,G-M2 | Processed,2026-11-06T00:11:17
+TC06,20,G-C1,letter,PASS,118.2,G-C1 | Processed,2026-11-06T00:13:35
+TC06,21,G-C2,letter,PASS,41.6,G-C2 | Processed,2026-11-06T15:27:20
+TC06,22,G-C3,letter,PASS,36.1,G-C3 | Processed,2026-11-06T15:28:13
+TC06,23,G-P1,letter,PASS,38.5,G-P1 | Processed,2026-11-06T15:29:08
+TC06,24,G-P2,letter,PASS,36.8,G-P2 | Processed,2026-11-06T15:30:05
+TC06,25,G-H1,letter,PASS,34.9,G-H1 | Processed,2026-11-06T15:30:54
+TC06,26,G-H2,letter,PASS,36.9,G-H2 | Processed,2026-11-06T15:31:50
+TC06,27,G-H3,letter,PASS,34.7,G-H3 | Processed,2026-11-06T15:32:46
+TC06,28,G-H4,letter,PASS,57.9,G-H4 | Processed,2026-11-06T15:33:59
+TC06,29,G-H5,letter,PASS,31.9,G-H5 | Processed,2026-11-06T15:34:48
+TC08,1,K-I1,letter,PASS,27.5,K-I1,2026-11-06T17:42:50
+TC08,2,Q-I1,letter,PASS,25.4,Q-I1,2026-11-06T17:43:29
+TC08,3,Q-I2,letter,PASS,27.8,Q-I2,2026-11-06T17:44:17
+TC08,4,Q-I3,letter,PASS,27.8,Q-I3,2026-11-06T17:45:04
+TC08,5,Q-I4,letter,PASS,26.0,Q-I4,2026-11-06T17:45:49
+TC08,6,K-I1,letter,PASS,27.7,K-I1,2026-11-06T17:46:34
+TC08,7,Q-I1,letter,PASS,26.3,Q-I1,2026-11-06T17:47:14
+TC08,8,Q-I2,letter,PASS,26.1,Q-I2,2026-11-06T17:47:59
+TC08,9,Q-I3,letter,PASS,25.9,Q-I3,2026-11-06T17:48:44
+TC08,10,Q-I4,letter,PASS,23.6,Q-I4,2026-11-06T17:49:21
+TC08,11,K-I1,letter,PASS,20.9,K-I1,2026-11-06T17:49:55
+TC08,12,Q-I1,letter,PASS,21.3,Q-I1,2026-11-06T17:50:36
+TC08,13,Q-I2,letter,PASS,21.0,Q-I2,2026-11-06T17:51:09
+TC08,14,Q-I3,letter,PASS,21.2,Q-I3,2026-11-06T17:51:49
+TC08,15,Q-I4,letter,PASS,21.4,Q-I4,2026-11-06T17:52:27
+TC08,16,K-I1,letter,PASS,22.3,K-I1,2026-11-06T17:53:02
+TC08,17,Q-I1,letter,PASS,22.0,Q-I1,2026-11-06T17:53:35
+TC08,18,Q-I2,letter,FAIL,22.8,Cart is empty for test input Q-I2,2026-11-06T17:54:10
+TC08,19,Q-I3,letter,PASS,21.0,Q-I3,2026-11-06T17:54:44
+TC08,20,Q-I4,letter,PASS,21.3,Q-I4,2026-11-06T17:55:20
+TC08,21,K-I1,letter,PASS,22.1,K-I1,2026-11-06T17:55:55
+TC08,22,Q-I1,letter,PASS,35.4,Q-I1,2026-11-06T17:56:49
+TC08,23,Q-I2,letter,PASS,34.7,Q-I2,2026-11-06T17:57:40
+TC08,24,Q-I3,letter,PASS,34.5,Q-I3,2026-11-06T17:58:36
+TC08,25,Q-I4,letter,PASS,36.7,Q-I4,2026-11-06T17:59:29
+TC08,26,K-I1,letter,PASS,39.0,K-I1,2026-11-06T18:00:29
+TC08,27,Q-I1,letter,PASS,34.2,Q-I1,2026-11-06T18:01:16
+TC08,28,Q-I2,letter,PASS,39.0,Q-I2,2026-11-06T18:02:16
+TC08,29,Q-I3,letter,PASS,34.2,Q-I3,2026-11-06T18:03:12
+TC08,30,Q-I4,letter,PASS,34.9,Q-I4,2026-11-06T18:04:20
+TC08,31,K-I1,letter,PASS,34.8,K-I1,2026-11-06T18:05:10
+TC08,32,Q-I1,letter,FAIL,35.2,Cart is empty for test input Q-I1,2026-11-06T18:06:05
+TC08,33,Q-I2,letter,PASS,34.2,Q-I2,2026-11-06T18:06:59
+TC08,34,Q-I3,letter,PASS,34.8,Q-I3,2026-11-06T18:07:47
+TC08,35,Q-I4,letter,PASS,31.2,Q-I4,2026-11-06T18:08:32
+TC08,36,K-I1,letter,PASS,33.8,K-I1,2026-11-06T18:09:23
+TC08,37,Q-I1,letter,PASS,33.6,Q-I1,2026-11-06T18:10:13
+TC08,38,Q-I2,letter,PASS,35.2,Q-I2,2026-11-06T18:11:05
+TC08,39,Q-I3,letter,PASS,38.5,Q-I3,2026-11-06T18:11:56
+TC08,40,Q-I4,letter,PASS,35.0,Q-I4,2026-11-06T18:12:47
+TC08,41,K-I1,letter,PASS,35.3,K-I1,2026-11-06T18:13:43
+TC08,42,Q-I1,letter,PASS,42.9,Q-I1,2026-11-06T18:14:42
+TC08,43,Q-I2,letter,PASS,35.1,Q-I2,2026-11-06T18:15:36
+TC08,44,Q-I3,letter,PASS,35.7,Q-I3,2026-11-06T18:16:33
+TC08,45,Q-I4,letter,PASS,34.8,Q-I4,2026-11-06T18:17:26
+TC08,46,K-I1,letter,PASS,35.0,K-I1,2026-11-06T18:18:21
+TC08,47,Q-I1,letter,PASS,34.3,Q-I1,2026-11-06T18:20:22
+TC08,48,Q-I2,letter,PASS,34.2,Q-I2,2026-11-06T18:21:17
+TC08,49,Q-I3,letter,PASS,35.1,Q-I3,2026-11-06T18:22:07
+TC08,50,Q-I4,letter,PASS,34.7,Q-I4,2026-11-06T18:23:01
+TC08,51,K-I1,letter,PASS,36.3,K-I1,2026-11-06T18:23:54
+TC08,52,Q-I1,letter,PASS,43.6,Q-I1,2026-11-06T18:24:50
+TC08,53,Q-I2,letter,PASS,47.0,Q-I2,2026-11-06T18:25:53
+TC08,54,Q-I3,letter,PASS,44.6,Q-I3,2026-11-06T18:26:56
+TC08,55,Q-I4,letter,PASS,44.6,Q-I4,2026-11-06T18:28:03
+TC08,56,K-I1,letter,PASS,46.9,K-I1,2026-11-06T18:29:11
+TC08,57,Q-I1,letter,PASS,50.4,Q-I1,2026-11-06T18:30:20
+TC08,58,Q-I2,letter,PASS,39.9,Q-I2,2026-11-06T18:31:14
+TC08,59,Q-I3,letter,PASS,42.4,Q-I3,2026-11-06T18:32:09
+TC08,60,Q-I4,letter,PASS,43.9,Q-I4,2026-11-06T18:33:11
+TC08,61,K-I1,letter,PASS,35.7,K-I1,2026-11-06T18:34:07
+TC09,1,valid,letter+numeric,PASS,35.5,1 -> 2,2026-11-06T19:56:59
+TC09,2,valid,numeric+age,PASS,31.6,1 -> 2,2026-11-06T19:57:43
+TC09,3,valid,numeric+age,PASS,33.9,1 -> 2,2026-11-06T19:58:28
+TC09,4,valid,numeric+age,PASS,34.3,1 -> 2,2026-11-06T19:59:16
+TC09,5,valid,numeric+age,PASS,34.4,1 -> 1,2026-11-06T20:00:08
+TC09,6,valid,numeric+age,PASS,33.3,1 -> 2,2026-11-06T20:01:02
+TC09,7,valid,numeric+age,PASS,36.0,1 -> 2,2026-11-06T20:01:49
+TC09,8,valid,numeric+age,PASS,31.7,1 -> 2,2026-11-06T20:02:34
+TC09,9,valid,numeric+age,PASS,34.1,1 -> 2,2026-11-06T20:03:23
+TC09,10,valid,numeric+age,PASS,34.0,1 -> 2,2026-11-06T20:04:14
+TC09,11,valid,numeric+age,PASS,33.7,1 -> 2,2026-11-06T20:04:59
+TC09,12,valid,numeric+age,PASS,31.6,1 -> 2,2026-11-06T20:05:48
+TC09,13,valid,numeric+age,PASS,33.3,1 -> 2,2026-11-06T20:06:37
+TC09,14,valid,numeric+age,PASS,31.3,1 -> 2,2026-11-06T20:07:28
+TC09,15,valid,numeric+age,PASS,35.7,1 -> 2,2026-11-06T20:08:19
+TC09,16,valid,numeric+age,PASS,31.1,1 -> 2,2026-11-06T20:09:09
+TC09,17,valid,numeric+age,PASS,34.4,1 -> 2,2026-11-06T20:10:00
+TC09,18,valid,numeric+age,PASS,33.7,1 -> 2,2026-11-06T20:10:52
+TC09,19,valid,numeric+age,PASS,31.5,1 -> 2,2026-11-06T20:11:38
+TC09,20,valid,numeric+age,PASS,34.9,1 -> 2,2026-11-06T20:12:32
+TC09,21,valid,numeric+age,PASS,30.8,1 -> 2,2026-11-06T20:13:18
+TC09,22,valid,numeric+age,PASS,35.0,1 -> 2,2026-11-06T20:14:06
+TC09,23,valid,numeric+age,PASS,34.9,1 -> 2,2026-11-06T20:14:55
+TC09,24,valid,numeric+age,FAIL,31.5,0 -> 0 (Cart empty),2026-11-06T20:15:38
+TC09,25,valid,numeric+age,PASS,37.5,1 -> 2,2026-11-06T20:16:32
+TC09,26,valid,numeric+age,PASS,34.2,1 -> 2,2026-11-06T20:17:24
+TC09,27,valid,numeric+age,PASS,35.4,1 -> 2,2026-11-06T20:18:20
+TC09,28,valid,numeric+age,PASS,34.7,1 -> 2,2026-11-06T20:19:10
+TC09,29,valid,numeric+age,PASS,34.2,1 -> 2,2026-11-06T20:20:04
+TC09,30,valid,numeric+age,PASS,35.1,1 -> 2,2026-11-06T20:21:26
+TC09,31,valid,numeric+age,PASS,33.9,1 -> 2,2026-11-06T20:22:20
+TC09,32,valid,numeric+age,PASS,34.5,1 -> 2,2026-11-06T20:23:12
+TC09,33,valid,numeric+age,PASS,36.4,1 -> 2,2026-11-06T20:24:02
+TC09,34,valid,numeric+age,PASS,34.5,1 -> 2,2026-11-06T20:24:54
+TC09,35,valid,numeric+age,PASS,34.5,1 -> 2,2026-11-06T20:25:46
+TC09,36,valid,numeric+age,PASS,35.7,1 -> 2,2026-11-06T20:26:41
+TC09,37,valid,numeric+age,PASS,37.2,1 -> 2,2026-11-06T20:27:39
+TC09,38,valid,numeric+age,PASS,35.5,1 -> 2,2026-11-06T20:28:34
+TC09,39,valid,numeric+age,PASS,33.8,1 -> 2,2026-11-06T20:29:24
+TC09,40,valid,numeric+age,PASS,34.5,1 -> 2,2026-11-06T20:30:16
+TC09,41,valid,numeric+age,PASS,33.9,1 -> 2,2026-11-06T20:31:09
+TC07,1,valid,letter+numeric,PASS,21.8,"23 rows | letter: size=08y,15.5 colour=Light Blue,Grey & Blue | numeric: size=08y,15.5 colour=Light Blue,Grey & Blue",2026-11-06T20:53:21
+TC07,2,valid,numeric+age,PASS,20.4,"23 rows | numeric: size=10y,120ml colour=Lemon,Pastel Green | age: size=10y,120ml colour=Lemon,Pastel Green",2026-11-06T20:54:05
+TC07,3,valid,numeric+age,PASS,22.4,"23 rows | numeric: size=10y,120ml colour=Lemon,Pastel Green | age: size=10y,120ml colour=Lemon,Pastel Green",2026-11-06T20:54:44
+TC07,4,valid,numeric+age,PASS,18.9,"23 rows | numeric: size=10y,120ml colour=Lemon,Pastel Green | age: size=10y,120ml colour=Lemon,Pastel Green",2026-11-06T20:55:17
+TC07,5,valid,numeric+age,PASS,21.5,"23 rows | numeric: size=10y,120ml colour=Lemon,Pastel Green | age: size=10y,120ml colour=Lemon,Pastel Green",2026-11-06T20:55:56
+TC07,6,valid,numeric+age,PASS,18.8,"23 rows | numeric: size=10y,120ml colour=Lemon,Pastel Green | age: size=10y,120ml colour=Lemon,Pastel Green",2026-11-06T20:56:31
+TC07,7,valid,numeric+age,PASS,20.4,"23 rows | numeric: size=10y,120ml colour=Lemon,Pastel Green | age: size=10y,120ml colour=Lemon,Pastel Green",2026-11-06T20:57:11
+TC07,8,valid,numeric+age,PASS,20.6,"23 rows | numeric: size=10y,120ml colour=Lemon,Pastel Green | age: size=10y,120ml colour=Lemon,Pastel Green",2026-11-06T20:57:52
+TC07,9,valid,numeric+age,PASS,17.5,"23 rows | numeric: size=10y,120ml colour=Lemon,Pastel Green | age: size=10y,120ml colour=Lemon,Pastel Green",2026-11-06T20:58:23
+TC07,10,valid,numeric+age,PASS,16.8,"23 rows | numeric: size=10y,120ml colour=Lemon,Pastel Green | age: size=10y,120ml colour=Lemon,Pastel Green",2026-11-06T20:58:58
+TC07,11,valid,numeric+age,PASS,20.1,"23 rows | numeric: size=10y,120ml colour=Lemon,Pastel Green | age: size=10y,120ml colour=Lemon,Pastel Green",2026-11-06T20:59:37
+TC07,12,valid,numeric+age,PASS,22.5,"23 rows | numeric: size=10y,120ml colour=Lemon,Pastel Green | age: size=10y,120ml colour=Lemon,Pastel Green",2026-11-06T21:00:15
+TC07,13,valid,numeric+age,PASS,16.7,"23 rows | numeric: size=10y,120ml colour=Lemon,Pastel Green | age: size=10y,120ml colour=Lemon,Pastel Green",2026-11-06T21:00:46
+TC07,14,valid,numeric+age,PASS,17.4,"23 rows | numeric: size=10y,120ml colour=Lemon,Pastel Green | age: size=10y,120ml colour=Lemon,Pastel Green",2026-11-06T21:01:19
+TC07,15,valid,numeric+age,PASS,19.8,"23 rows | numeric: size=10y,120ml colour=Lemon,Pastel Green | age: size=10y,120ml colour=Lemon,Pastel Green",2026-11-06T21:01:53
+TC07,16,valid,numeric+age,PASS,17.6,"23 rows | numeric: size=10y,120ml colour=Lemon,Pastel Green | age: size=10y,120ml colour=Lemon,Pastel Green",2026-11-06T21:02:28
+TC07,17,valid,numeric+age,PASS,18.0,"23 rows | numeric: size=10y,120ml colour=Lemon,Pastel Green | age: size=10y,120ml colour=Lemon,Pastel Green",2026-11-06T21:03:02
+TC07,18,valid,numeric+age,PASS,16.9,"23 rows | numeric: size=10y,120ml colour=Lemon,Pastel Green | age: size=10y,120ml colour=Lemon,Pastel Green",2026-11-06T21:03:34
+TC07,19,valid,numeric+age,PASS,20.4,"23 rows | numeric: size=10y,120ml colour=Lemon,Pastel Green | age: size=10y,120ml colour=Lemon,Pastel Green",2026-11-06T21:04:15
+TC07,20,valid,numeric+age,PASS,23.0,"23 rows | numeric: size=10y,120ml colour=Lemon,Pastel Green | age: size=10y,120ml colour=Lemon,Pastel Green",2026-11-06T21:04:52
+TC07,21,valid,numeric+age,PASS,23.2,"23 rows | numeric: size=10y,120ml colour=Lemon,Pastel Green | age: size=10y,120ml colour=Lemon,Pastel Green",2026-11-06T21:05:27
+TC07,22,valid,numeric+age,PASS,17.8,"23 rows | numeric: size=10y,120ml colour=Lemon,Pastel Green | age: size=10y,120ml colour=Lemon,Pastel Green",2026-11-06T21:06:04
+TC07,23,valid,numeric+age,PASS,19.1,"23 rows | numeric: size=10y,120ml colour=Lemon,Pastel Green | age: size=10y,120ml colour=Lemon,Pastel Green",2026-11-06T21:06:42
+TC07,24,valid,numeric+age,PASS,16.1,"23 rows | numeric: size=10y,120ml colour=Lemon,Pastel Green | age: size=10y,120ml colour=Lemon,Pastel Green",2026-11-06T21:07:14
+TC07,25,valid,numeric+age,PASS,20.8,"23 rows | numeric: size=10y,120ml colour=Lemon,Pastel Green | age: size=10y,120ml colour=Lemon,Pastel Green",2026-11-06T21:07:51
+TC07,26,valid,numeric+age,PASS,22.1,"23 rows | numeric: size=10y,120ml colour=Lemon,Pastel Green | age: size=10y,120ml colour=Lemon,Pastel Green",2026-11-06T21:08:32
+TC07,27,valid,numeric+age,PASS,26.6,"23 rows | numeric: size=10y,120ml colour=Lemon,Pastel Green | age: size=10y,120ml colour=Lemon,Pastel Green",2026-11-06T21:09:17
+TC07,28,valid,numeric+age,PASS,27.3,"23 rows | numeric: size=10y,120ml colour=Lemon,Pastel Green | age: size=10y,120ml colour=Lemon,Pastel Green",2026-11-06T21:10:05
+TC07,29,valid,numeric+age,PASS,26.6,"23 rows | numeric: size=10y,120ml colour=Lemon,Pastel Green | age: size=10y,120ml colour=Lemon,Pastel Green",2026-11-06T21:10:46
+TC10,1,S-I1,-,PASS,19.4,S-I1,2026-11-06T21:12:06
+TC10,2,S-I1,-,PASS,23.6,S-I1,2026-11-06T21:12:42
+TC10,3,S-I1,-,PASS,22.8,S-I1,2026-11-06T21:13:21
+TC10,4,S-I1,-,PASS,24.4,S-I1,2026-11-06T21:14:06
+TC10,5,S-I1,-,PASS,20.3,S-I1,2026-11-06T21:14:45
+TC10,6,S-I1,-,PASS,23.8,S-I1,2026-11-06T21:15:24
+TC10,7,S-I1,-,PASS,24.1,S-I1,2026-11-06T21:16:09
+TC10,8,S-I1,-,PASS,20.4,S-I1,2026-11-06T21:16:49
+TC10,9,S-I1,-,PASS,23.4,S-I1,2026-11-06T21:17:30
+TC10,10,S-I1,-,PASS,19.7,S-I1,2026-11-06T21:18:11
+TC10,11,S-I1,-,PASS,23.1,S-I1,2026-11-06T21:18:51
+TC10,12,S-I1,-,PASS,23.0,S-I1,2026-11-06T21:19:35
+TC10,13,S-I1,-,PASS,24.1,S-I1,2026-11-06T21:20:13
+TC10,14,S-I1,-,PASS,24.0,S-I1,2026-11-06T21:20:55
+TC10,15,S-I1,-,PASS,23.5,S-I1,2026-11-06T21:21:33
+TC10,16,S-I1,-,PASS,20.4,S-I1,2026-11-06T21:22:07
+TC10,17,S-I1,-,PASS,23.8,S-I1,2026-11-06T21:22:45
+TC10,18,S-I1,-,PASS,22.9,S-I1,2026-11-06T21:23:21
+TC10,19,S-I1,-,PASS,23.1,S-I1,2026-11-06T21:24:06
+TC10,20,S-I1,-,PASS,23.6,S-I1,2026-11-06T21:24:50
+TC10,21,S-I1,-,PASS,22.6,S-I1,2026-11-06T21:25:28
+TC10,22,S-I1,-,PASS,24.1,S-I1,2026-11-06T21:26:13
+TC10,23,S-I1,-,PASS,23.5,S-I1,2026-11-06T21:26:50
+TC10,24,S-I1,-,PASS,24.4,S-I1,2026-11-06T21:27:32
+TC10,25,S-I1,-,PASS,23.1,S-I1,2026-11-06T21:28:13
+TC10,26,S-I1,-,PASS,19.8,S-I1,2026-11-06T21:28:55
+TC10,27,S-I1,-,PASS,22.9,S-I1,2026-11-06T21:29:31
+TC10,28,S-I1,-,PASS,19.7,S-I1,2026-11-06T21:30:11
+TC10,29,S-I1,-,PASS,26.2,S-I1,2026-11-06T21:30:59
